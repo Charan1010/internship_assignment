@@ -1,2 +1,2 @@
-# internship_assignment
+# Loan Default Prediction
 PREDICTION OF LOAN DEFAULTS
